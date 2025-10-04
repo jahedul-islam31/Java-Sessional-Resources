@@ -46,3 +46,4 @@ public class CalculatorSwitch {
         input.close();
     }
 }
+
